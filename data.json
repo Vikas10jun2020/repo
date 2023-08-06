@@ -1,0 +1,9 @@
+{
+  "name": "vs-rn-button",
+  "version": "1.0.1",
+  "description": "My Custom Button",
+  "main": "index.js",
+
+  "author": "",
+  "license": "ISC"
+}
