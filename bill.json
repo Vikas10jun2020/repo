@@ -5,6 +5,7 @@
     "screens":["","",""],
     "functions":["","",""],
     "extra":"",
+    "desc":"",
     "totalAmount":2
   },
   {
@@ -13,6 +14,7 @@
     "screens":["","",""],
     "functions":["","",""],
      "extra":"",
+        "desc":"",
     "totalAmount":2
   }
 ]
