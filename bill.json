@@ -4,6 +4,7 @@
     "apis":["","",""],
     "screens":["","",""],
     "functions":["","",""],
+    "extra":"",
     "totalAmount":2
   },
   {
@@ -11,6 +12,7 @@
     "apis":["","",""],
     "screens":["","",""],
     "functions":["","",""],
+     "extra":"",
     "totalAmount":2
   }
 ]
