@@ -5,6 +5,7 @@
     "apis":["","",""],
     "screens":["","",""],
     "functions":["","",""],
+    "rework":true,
     "extra":"",
     "desc":"",
     "totalAmount":2
@@ -15,6 +16,7 @@
     "apis":["","",""],
     "screens":["","",""],
     "functions":["","",""],
+    "rework":false,
     "extra":"",
     "desc":"",
     "totalAmount":2
